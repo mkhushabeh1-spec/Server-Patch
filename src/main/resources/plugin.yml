@@ -1,0 +1,7 @@
+name: ServerPatch
+version: 2.3.1
+main: dev.serverpatch.ServerPatch
+api-version: '1.21'
+description: Lightweight server optimisation — reduces entity ticking overhead, trims
+  unused chunk data, and throttles async I/O spikes to improve TPS stability.
+authors: [admin]
